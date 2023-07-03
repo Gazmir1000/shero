@@ -1,0 +1,23 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 16px;
+}
+
+.main{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
